@@ -1,4 +1,4 @@
-# vuetify-learn
+# Url-shortner
 
 ## Project setup
 ```
