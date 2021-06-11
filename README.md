@@ -1,5 +1,8 @@
 # Url-shortner
 
+[Link to website](https://thirsty-fermat-a029ad.netlify.app/)
+##
+
 ## Project setup
 ```
 npm install
