@@ -1,6 +1,6 @@
 # Url-shortner
 
-[Link to website](https://thirsty-fermat-a029ad.netlify.app/)
+[Link to website](https://url-link-shortner.netlify.app)
 ##
 
 ## Project setup
